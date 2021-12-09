@@ -108,5 +108,3 @@ except Exception as e:
     print("--- ERROR ---")
     print(e)
     quit()
-
-sys.stdout.close()
