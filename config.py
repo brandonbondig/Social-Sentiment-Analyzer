@@ -1,0 +1,5 @@
+consumer_key = 'CONSUMER_KEY'
+consumer_secret = 'CONSUMER_SECRET'
+access_token = 'ACCESS_TOKEN'
+secret_token = 'SECRET_TOKEN'
+bearer_token = 'BEARER_TOKEN'
